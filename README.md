@@ -56,5 +56,7 @@ The output is sorted by the second row (as in the example).
 ## Parameters
 
 `-InputFile`: Path to the input file
+
 `-OutputFile`: Path to the output file
+
 `-NaNString`: String that used as z-value for missing x-y-pairs
