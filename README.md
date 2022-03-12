@@ -1,5 +1,16 @@
 # add-missing-nan
 
+## Syntax
+
+```plaintext
+add-missing-nan.ps1
+    [-InputFile] <String>
+    [-OutputFile] <String>
+    [[-NaNString] <String>]
+```
+
+## Description
+
 This script is adding missing NaN values into XYZ stream.
 
 For some plotting tools it is necessary that the input data forms a uniform "net".
@@ -60,3 +71,10 @@ The output is sorted by the second row (as in the example).
 `-OutputFile`: Path to the output file
 
 `-NaNString`: String that used as z-value for missing x-y-pairs
+
+## License
+
+This code is licensed under the [UNLICENSE](UNLICENSE).
+So you can do wat you want.
+But ... I must admit, that I am bit curious.
+If you want, you can leave a message and tell me what you are using the script for.
