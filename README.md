@@ -77,4 +77,4 @@ The output is sorted by the second row (as in the example).
 This code is licensed under the [UNLICENSE](UNLICENSE).
 So you can do wat you want.
 But ... I must admit, that I am bit curious.
-If you want, you can leave a message and tell me what you are using the script for.
+If you want, you can [leave a message](mailto:ar-std@mailbox.org?subject=add-missing-nan) and tell me what you are using the script for.
