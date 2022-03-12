@@ -70,7 +70,7 @@ The output is sorted by the second row (as in the example).
 
 `-OutputFile`: Path to the output file
 
-`-NaNString`: String that used as z-value for missing x-y-pairs
+`-NaNString`: String that used as z-value for missing x-y-pairs (default: `NaN`)
 
 ## License
 
